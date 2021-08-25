@@ -7,3 +7,6 @@ Solar is Discord bot that promots and reinforce healthy routines for people who 
 3. As a user, I want the bot to kindly remind me when weight loss progress is interrepted
 4. As a user, I want the bot to provide health related tips
 5. ...
+
+### Tools / Programming Languages:
+Python, MySQL
