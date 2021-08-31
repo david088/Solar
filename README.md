@@ -7,7 +7,7 @@ Our goal is to create a user friendly product that is functional in providing so
 ***s!signup*** - Displays a message to welcome user to join the program and sends a DM to the user for further instructions (including user setting and ennter personal health data).
 
 ### Our bot also supports Discord's slash commands
-Exchange command prefix with "/" to activiate the command and see commnad descriptio. (Ex. s!about -> /about)
+Exchange command prefix with "/" to activiate the command and see its commnad description. (Ex. s!about -> /about)
 
 ## Project Goals:woman_health_worker::man_health_worker:
 1. As a user, I want the bot to cacluate health related data (example: BMI)
