@@ -2,6 +2,8 @@
 SolarHeart is a Discord bot that supports users by promoting healthy routines, tarcking health data, sending reminders, and more.\
 Our goal is to create a user friendly product that is functional in providing solutions/results that fit the user circustances and respectful in protecting personal health data while users are busy in gaming or interacting with others. Stay active and stay healthy!
 
+## Current Features (with commands):
+s!signup: Displays a message to welcome user to join the program and sends a DM to the user for further instructions (including user setting and ennter personal health data).
 
 ### Project Goals:woman_health_worker::man_health_worker:
 1. As a user, I want the bot to cacluate health related data (example: BMI)
