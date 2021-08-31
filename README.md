@@ -8,7 +8,7 @@ Our goal is to create a user friendly product that is functional in providing so
 ### Our bot also supports Discord's slash commands
 Exchange command prefix with "/" to activiate the command and see commnad descriptio. (Ex. s!about -> /about)
 
-### Project Goals:woman_health_worker::man_health_worker:
+## Project Goals:woman_health_worker::man_health_worker:
 1. As a user, I want the bot to cacluate health related data (example: BMI)
 2. As a user, I want the bot to protect my personal health data
 3. As a user, I want the bot to give a health goal based on entered data and calculations
