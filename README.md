@@ -26,6 +26,6 @@ Exchange command prefix with "/" to activiate the command and see its commnad de
 - [ ] As a user, I want the bot to send me private messages about the personal data
 - [ ] As a user, I want the bot to provide a list of settings that allows me to turn on and turn off tracking or reminders
 - [ ] As a user, I want the bot to store my data for future reference
-
+- [ ] As a user, I want the bot to create engagment posts to keep me interested
 ### Programming Languages / Technologies:
 Python, MySQL
